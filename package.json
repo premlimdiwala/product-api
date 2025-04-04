@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "react-bootstrap": "^2.10.9",
+    "react-router-dom": "^7.4.1"
+  },
+  "name": "product-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
